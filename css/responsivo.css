@@ -23,6 +23,14 @@ body{
 		margin-left: -40px;
 	}
 
+	.informacao p {
+		font-size: 25px;
+	}
+
+	.informacao h1.psicanalise {
+		font-size: 29px;
+	}
+
 }
 
 @media (min-width:400px){
